@@ -23,18 +23,6 @@ footer {
     display: flex;
 }
 
-@media (max-width: 600px) {
-    .menu {
-      background: blue;
-      width: 100%;
-    }
-
-    .content{
-      background: yellow;
-      width: 100%;
-    }
-}
-
 @media (width <= 600px) {
     .page {
       display: block;
